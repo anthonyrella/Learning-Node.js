@@ -2,7 +2,7 @@
 Following the Learning Node.js course on Lynda by Alexander Zanfir
 
 ## Project
-A simple chat application with push notifications
+A chat application with push notifications. Users will receive the message without automatically without a refresh. 
 
 ## Built With
 
