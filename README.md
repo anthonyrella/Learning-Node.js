@@ -10,4 +10,5 @@ A chat application with push notifications. Users will receive the message witho
 * [Express.js](https://expressjs.com/) - The Web Framework Used
 * [Socket.io](https://socket.io/) - Used to generate real time bi-directional event based communication
 * [MongoDB](https://www.mongodb.com/) - NoSQL db used to store message data
-* [mLab](https://mlab.com/) - MongoDB hosting service
+* [mLab](https://mlab.com/) - MongoDB database hosting service
+* [Jasmine](https://jasmine.github.io/) - Javascript test suite
